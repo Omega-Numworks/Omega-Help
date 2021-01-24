@@ -1,4 +1,4 @@
-> Mots clés : GB, GB, GameBoy, PeanutGB, Nofrendo, Jeux
+> Mots clés : GB, GB, GameBoy, PeanutGB, Nofrendo, Jeux  
 > Auteur : Quentin Guidée, @quentinguidee
 
 ## Comment ajouter des jeux sur Omega ?

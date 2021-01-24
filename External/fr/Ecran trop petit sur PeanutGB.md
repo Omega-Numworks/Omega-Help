@@ -1,4 +1,4 @@
-> Mots clés : GB, GameBoy, 
+> Mots clés : GB, GameBoy, Screen, Small  
 > Auteur : Quentin Guidée, @quentinguidee
 
 ## L’écran de PeanutGB est tout petit, c’est normal ?

@@ -1,4 +1,4 @@
-> Mots clés : GBA, GBC, GameBoy Advance, GameBoy Color  
+> Mots clés : GBA, GBC, GameBoy Advance, GameBoy Color, Compatibilité  
 > Auteur : Quentin Guidée, @quentinguidee
 
 ## Les jeux GBA et GBC sont-ils compatibles ?
