@@ -1,4 +1,4 @@
-> Mots clés : Versions, Différence
+> Mots clés : Versions, Différence  
 > Auteur : Quentin Guidée, @quentinguidee
 
 ## Quelle est la différence entre la version d'Omega et la version d'Epsilon ?

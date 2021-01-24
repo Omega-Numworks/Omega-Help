@@ -1,4 +1,4 @@
-> Mots clés : RPN, Utilité
+> Mots clés : RPN, Utilité  
 > Auteur : Quentin Guidée, @quentinguidee
 
 ## Qu'est-ce que RPN ?

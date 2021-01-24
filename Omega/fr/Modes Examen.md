@@ -1,4 +1,4 @@
-> Mots clés : Mode examen, Standard, Sans symbolique, Sans texte
+> Mots clés : Mode examen, Standard, Sans symbolique, Sans texte  
 > Auteur : Quentin Guidée, @quentinguidee
 
 ## Quelle est la différence entre les différents modes examen Omega ?

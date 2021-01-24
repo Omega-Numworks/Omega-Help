@@ -1,4 +1,4 @@
-> Mots clés : Mode examen, Autorisé, Conforme
+> Mots clés : Mode examen, Autorisé, Conforme  
 > Auteur : Quentin Guidée, @quentinguidee
 
 ## Le mode examen Omega est-il autorisé en examen ?
