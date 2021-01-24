@@ -1,25 +1,29 @@
 > Mots clés : Toolchain, Not found  
-Auteur : Nom de l'auteur, @Syycorax
+Auteur : Hector Nussbaumer, @Syycorax
 
 ## Lors de la compilation j'ai l'erreur suivante. Que faire?
 
-```/bin/sh: arm-none-eabi-g++: command not found```
+```
+/bin/sh: arm-none-eabi-g++: command not found
+```
 
-Il semblerait que la Toolchain ARM ne soit pas installée, pour le verifier, on peut executer 
+Il semblerait que la Toolchain ARM ne soit pas installée. Pour le vérifier, on peut exécuter la commande suivante :
 
-``which arm-none-eabi-g++``
+```bash
+which arm-none-eabi-g++
+```
 
 Si cette commande renvoie
 
-``arm-none-eabi-gcc not found``
+```
+arm-none-eabi-gcc not found
+```
 
-La toolchain n'est pas installée ou pas/mal indiquée dans le PATH
+La toolchain n'est pas installée ou pas/mal indiquée dans le PATH. Voici comment corriger l'erreur :
 
-1. Verifier que la [toolchain](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads)est bien installée:
+1. Verifier que la [toolchain](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads) est bien installée ;
 
-2. Ajouter la toolchain dans le PATH: executer
+2. Ajouter la toolchain dans le PATH avec la commande suivante :
 
-``export PATH=$PATH:~/.local/bin/:/chemin-de-la-toolchain/bin
-``
-
-En cas de problème, vous pouvez nous contacter dans le salon #help-fr du [discord](https://discord.gg/JpmjSH3)
+```bash
+export PATH=$PATH:~/.local/bin/:/chemin-de-la-toolchain/bin
