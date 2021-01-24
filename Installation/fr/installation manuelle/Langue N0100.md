@@ -1,5 +1,5 @@
-> Mots clés : flash, mémoire  
-Auteur : hector Nussbaumer, @Syycorax
+> Mots clés : Flash, Mémoire  
+Auteur : Hector Nussbaumer, @Syycorax
 ## Lors de la compilation j'ai l'erreur suivante. Que faire?
 
 ```
